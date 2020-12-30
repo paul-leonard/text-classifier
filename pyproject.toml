@@ -8,6 +8,8 @@ authors = ["paul-leonard <paul.ryan.leonard@gmail.com>"]
 python = "^3.9"
 pandas = "^1.2.0"
 scikit-learn = "^0.24.0"
+jupyterlab = "^3.0.0"
+numpy = "^1.19.4"
 
 [tool.poetry.dev-dependencies]
 black = "^20.8b1"
